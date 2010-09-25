@@ -1,1 +1,13 @@
-Hello world!
+Hello space!
+Wow it deleted a line with dd!
+I will now test undo and redo!!!
+"o" will insert a line below the cursor.
+hello there
+
+void holyShit() {
+    int i;
+    for ( i = 0; i < 10; i++ ) {
+        printf("At %d\n", i);
+    }
+}
+
