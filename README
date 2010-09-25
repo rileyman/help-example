@@ -8,6 +8,6 @@ void holyShit() {
     int i;
     for ( i = 0; i < 10; i++ ) {
         printf("At %d\n", i);
-    }
-}
+    } // end for
+} // end holyShit
 
