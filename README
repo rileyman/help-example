@@ -4,10 +4,9 @@ I will now test undo and redo!!!
 "o" will insert a line below the cursor.
 hello there
 
-void holyShit() {
+void holySmokes() {
     int i;
     for ( i = 0; i < 10; i++ ) {
         printf("At %d\n", i);
     } // end for
-} // end holyShit
-
+} // end holySmokes
